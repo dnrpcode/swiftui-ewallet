@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>btn.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>44</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A3449AB2ECE9E5727BA225F3B178C10D62E0FD2F</string>
+				<key>dateExpires</key>
+				<string>11/11/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A3449AB2ECE9E5727BA225F3B178C10D62E0FD2F</string>
+						<key>dateExpires</key>
+						<string>11/11/22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9C475LSC5Y</string>
+						<key>name</key>
+						<string>INFOSYS SOLUSI TERPADU, PT</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1026</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A3449AB2ECE9E5727BA225F3B178C10D62E0FD2F</string>
+						<key>dateExpires</key>
+						<string>11/11/22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>TwitterCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9C475LSC5Y</string>
+						<key>name</key>
+						<string>INFOSYS SOLUSI TERPADU, PT</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.2.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1032</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A3449AB2ECE9E5727BA225F3B178C10D62E0FD2F</string>
+						<key>dateExpires</key>
+						<string>11/11/22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>TwitterKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9C475LSC5Y</string>
+						<key>name</key>
+						<string>INFOSYS SOLUSI TERPADU, PT</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>5.1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9C475LSC5Y.btn.properti.ios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9C475LSC5Y</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>btn.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0ffcc7fc-9dd4-419c-be09-f240451989ae</string>
+				<key>dateExpires</key>
+				<string>30/05/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9C475LSC5Y</string>
+				<key>name</key>
+				<string>INFOSYS SOLUSI TERPADU, PT</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>4.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
